@@ -14,8 +14,7 @@ describe("Todo list getting Tested", () => {
   });
 
   test("Adding new todo in the list", () => {
-   
-
+    // expect(all.length).toBe(0);
     let length = all.length;
 
     add({
